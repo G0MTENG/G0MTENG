@@ -22,5 +22,5 @@
 <br>
 <br>
 
-<h3 align="center">🔥 baekjoon 🔥</h3>
+<h3 align="center">🔥 백준 🔥</h3>
 <div align="center"><p><a href="https://solved.ac/wke1wke1"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gomteng03" alt="Solved.ac 프로필"></a></p></div>
