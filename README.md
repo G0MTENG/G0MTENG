@@ -19,4 +19,4 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomteng03)](https://solved.ac/wke1wke1)
+<div align="center"><p><a href="https://solved.ac/wke1wke1"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gomteng03" alt="Solved.ac 프로필"></a></p></div>
